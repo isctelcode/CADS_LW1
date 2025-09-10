@@ -60,5 +60,12 @@ namespace CADS_LW1
             this.gender = "Unknown";
             this.age = 0;
         }
+
+        public void getInformation()
+        {
+            Console.WriteLine("Наименование: {0}", name);
+            Console.WriteLine("Пол: {0}", gender);
+            Console.WriteLine("Возраст: {0}", age);
+        }
     }
 }
