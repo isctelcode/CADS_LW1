@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|c:\\users\\stepu\\source\\repos\\cads_lw1\\cads_lw1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|C:\\Users\\stepu\\source\\repos\\CADS_LW1\\cads_lw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|c:\\users\\stepu\\source\\repos\\cads_lw1\\cads_lw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|c:\\users\\stepu\\source\\repos\\cads_lw1\\cads_lw1\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|C:\\Users\\stepu\\source\\repos\\CADS_LW1\\cads_lw1\\artiodactyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\artiodactyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|C:\\Users\\stepu\\source\\repos\\CADS_LW1\\cads_lw1\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|c:\\users\\stepu\\source\\repos\\cads_lw1\\cads_lw1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|C:\\Users\\stepu\\source\\repos\\CADS_LW1\\cads_lw1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|c:\\users\\stepu\\source\\repos\\cads_lw1\\cads_lw1\\artiodactyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\artiodactyl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|C:\\Users\\stepu\\source\\repos\\CADS_LW1\\cads_lw1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1BEAC-8F00-4F26-B76B-E17395EE99E5}|CADS_LW1\\CADS_LW1.csproj|solutionrelative:cads_lw1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Artiodactyl.cs",
-              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Artiodactyl.cs",
-              "RelativeDocumentMoniker": "CADS_LW1\\Artiodactyl.cs",
-              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Artiodactyl.cs",
-              "RelativeToolTip": "CADS_LW1\\Artiodactyl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Program.cs",
+              "RelativeDocumentMoniker": "CADS_LW1\\Program.cs",
+              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Program.cs",
+              "RelativeToolTip": "CADS_LW1\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:55:38.63Z",
+              "WhenOpened": "2025-09-09T15:04:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Animal.cs",
+              "RelativeDocumentMoniker": "CADS_LW1\\Animal.cs",
+              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Animal.cs",
+              "RelativeToolTip": "CADS_LW1\\Animal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:26:09.863Z",
               "EditorCaption": ""
             },
             {
@@ -53,7 +66,7 @@
               "RelativeDocumentMoniker": "CADS_LW1\\Bird.cs",
               "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Bird.cs",
               "RelativeToolTip": "CADS_LW1\\Bird.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T17:39:08.107Z",
               "EditorCaption": ""
@@ -66,7 +79,7 @@
               "RelativeDocumentMoniker": "CADS_LW1\\Mammal.cs",
               "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Mammal.cs",
               "RelativeToolTip": "CADS_LW1\\Mammal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T17:35:21.107Z",
               "EditorCaption": ""
@@ -74,27 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Program.cs",
-              "RelativeDocumentMoniker": "CADS_LW1\\Program.cs",
-              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Program.cs",
-              "RelativeToolTip": "CADS_LW1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Title": "Artiodactyl.cs",
+              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Artiodactyl.cs",
+              "RelativeDocumentMoniker": "CADS_LW1\\Artiodactyl.cs",
+              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Artiodactyl.cs",
+              "RelativeToolTip": "CADS_LW1\\Artiodactyl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T15:04:36.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Animal.cs",
-              "RelativeDocumentMoniker": "CADS_LW1\\Animal.cs",
-              "ToolTip": "C:\\Users\\stepu\\source\\repos\\CADS_LW1\\CADS_LW1\\Animal.cs",
-              "RelativeToolTip": "CADS_LW1\\Animal.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T21:26:09.863Z",
+              "WhenOpened": "2025-09-10T17:55:38.63Z",
               "EditorCaption": ""
             }
           ]
