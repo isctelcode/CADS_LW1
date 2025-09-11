@@ -9,9 +9,9 @@ namespace CADS_LW1
     internal class Animal
     {
         //поле данных
-        protected string name;
-        protected string gender;
-        protected int age;
+        protected string name = "Unknown";
+        protected string gender = "Unknown";
+        protected int age = 0;
 
         //геттеры и сеттеры для поля данных с проверкой на корректность
         public string Name { get; set; }
@@ -50,18 +50,12 @@ namespace CADS_LW1
         }
 
         //конструкторы
+        public Animal() { }
         public Animal(string name, string gender, int age)
         {
             this.name = name;
             this.gender = gender;
             this.age = age;
-        }
-
-        public Animal()
-        {
-            this.name = "Unknown";
-            this.gender = "Unknown";
-            this.age = 0;
         }
 
         //метод для вывода данных объекта   
@@ -71,6 +65,14 @@ namespace CADS_LW1
             Console.WriteLine("Пол: {0}", gender);
             Console.WriteLine("Возраст: {0}", age);
             Console.WriteLine();
+        }
+
+        public void weWillLeaveTheZoo()
+        {
+            Console.WriteLine("Данные о {0} потеряны", name);
+            name = "Unknown";
+            gender = "Unknown";
+            age = 0;
         }
     }
 }

@@ -10,18 +10,9 @@ namespace CADS_LW1
     internal class Artiodactyl : Mammal
     {
         //конструкторы
-        public Artiodactyl(string name, string gender, int age)
+        public Artiodactyl() { }
+        public Artiodactyl(string name, string gender, int age) : base(name, gender, age)
         {
-            this.name = name;
-            this.gender = gender;
-            this.age = age;
-        }
-
-        public Artiodactyl()
-        {
-            this.name = "Unknown";
-            this.gender = "Unknown";
-            this.age = 0;
         }
     }
 }

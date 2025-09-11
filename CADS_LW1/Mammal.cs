@@ -10,18 +10,9 @@ namespace CADS_LW1
     internal class Mammal : Animal
     {
         //конструкторы
-        public Mammal(string name, string gender, int age)
+        public Mammal() { }
+        public Mammal(string name, string gender, int age) : base(name, gender, age)
         {
-            this.name = name;
-            this.gender = gender;
-            this.age = age;
-        }
-
-        public Mammal()
-        {
-            this.name = "Unknown";
-            this.gender = "Unknown";
-            this.age = 0;
         }
     }
 }

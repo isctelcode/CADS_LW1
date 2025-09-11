@@ -10,18 +10,9 @@ namespace CADS_LW1
     internal class Bird : Animal
     {
         //конструкторы
-        public Bird(string name, string gender, int age)
+        public Bird() { }
+        public Bird(string name, string gender, int age) : base(name, gender, age)
         {
-            this.name = name;
-            this.gender = gender;
-            this.age = age;
-        }
-
-        public Bird()
-        {
-            this.name = "Unknown";
-            this.gender = "Unknown";
-            this.age = 0;
         }
     }
 }
